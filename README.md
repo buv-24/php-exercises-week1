@@ -1,7 +1,7 @@
 # PHP Övningar 🚀
 
 14 PHP-övningar för att komma igång med PHP.
-
+ 
 Kräver PHP installerat och lokal webbserver, till exempel Apache.
 Rekommendation att ladda ner XAMPP: https://www.apachefriends.org/. Kör installationen med standardval.
 
