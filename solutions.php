@@ -263,7 +263,8 @@
     $personer = ["Anna" => 25, "Erik" => 30, "Maria" => 22];
     foreach ($personer as $namn => $alder) {
 
-        $background = ($alder > 25) ? "style='background-color: yellow;'" : "";
+        // "ternary" one line if else-sats, gör samma som koden under
+        //$background = ($alder > 25) ? "style='background-color: yellow;'" : "";
 
         if($alder > 25) {
             
